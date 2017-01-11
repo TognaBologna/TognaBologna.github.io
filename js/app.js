@@ -37,4 +37,4 @@ angular.module('angularDrill', ['ui.router']).config(function($stateProvider, $u
 		});
 	$urlRouterProvider
 		.otherwise('/');
-};
+});
